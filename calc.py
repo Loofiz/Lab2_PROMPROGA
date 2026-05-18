@@ -2,7 +2,7 @@ import logging
 logging.basicConfig(level=logging.DEBUG)
 
 def add(a,b):
-    return a+b
+    return a+b+10
 
 def minus(a,b):
     return a-b
